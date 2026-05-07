@@ -15,10 +15,10 @@ Bienvenido a mi espacio de documentación técnica. Aquí comparto las resolucio
 ---
 
 ## 🛠️ Tecnologías y Herramientas
-*   **Reconocimiento:** Nmap, Netdiscover.
-*   **Web:** Burp Suite, Feroxbuster.
-*   **Forense:** Wireshark, Volatility, Hashcat.
-*   **Sistemas:** Linux (Ubuntu/Debian) y Windows Server.
+* **Reconocimiento:** Nmap, Netdiscover.
+* **Web:** Ffuf, Gobuster, PHP Reverse Shell.
+* **Forense:** Wireshark, Tshark, Análisis de IoCs.
+* **Sistemas:** Linux (Ubuntu/Debian) y Windows Server.
 
 ---
 > *Comprometido con el aprendizaje continuo en Seguridad Ofensiva y Análisis Forense.*
